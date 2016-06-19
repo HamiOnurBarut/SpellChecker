@@ -1,4 +1,4 @@
-## Java SpellChecker and Corrector Application
+## SpellChecker and Corrector Application in Java
 
 ###### Author: Hami Onur Barut
 
