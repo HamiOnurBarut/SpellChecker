@@ -1,5 +1,4 @@
-###### Date:
-24.12.2015
+###### Date: 24.12.2015
 
 ###### Author: Hami Onur Barut
 
