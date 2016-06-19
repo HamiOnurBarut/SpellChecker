@@ -1,4 +1,4 @@
-###### Date: 24.12.2015
+## Java SpellChecker and Corrector Application
 
 ###### Author: Hami Onur Barut
 
